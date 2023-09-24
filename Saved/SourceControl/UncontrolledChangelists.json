@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Main.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Courtyard.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Church.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/HospitalWing.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Dormitory.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Bathroom.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/DiningHall.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Kitchen.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Hall.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Classroom.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/ArtRoom.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/MeetingRoom.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Storage.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Stairs.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Hallways.umap",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/MeshAssets/Red.uasset",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/MeshAssets/Yellow.uasset",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/MeshAssets/Green.uasset",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/MeshAssets/Blue.uasset",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Test.umap"
+			]
+		}
+	]
+}
