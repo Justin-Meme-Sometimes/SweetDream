@@ -4127,3 +4127,6 @@ Minimum required: 526.47
 [2023.10.01-18.57.43:833][ 88]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2023.10.01-18.57.43:833][ 88]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2023.10.01-18.57.43:833][ 88]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.10.01-18.57.48:609][ 88]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.10.01-18.57.48:953][ 88]LogExit: Exiting.
+[2023.10.01-18.57.49:156][ 88]Log file closed, 10/01/23 14:57:49
