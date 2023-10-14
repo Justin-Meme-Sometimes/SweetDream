@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Hall.umap",
-				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Main.umap",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Courtyard.umap",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Church.umap",
@@ -229,6 +227,9 @@
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Megascans/3D_Assets/Decorative_Wooden_Window_xgmxbafdw/MI_Glass_Decorative_Wooden_Window_xgmxbafdw_2K.uasset",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Megascans/3D_Assets/Decorative_Wooden_Window_xgmxbafdw/MI_Decorative_Wooden_Window_xgmxbafdw_2K.uasset",
+				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Megascans/3D_Assets/Wooden_Chair_wjglaj3s/S_Wooden_Chair_wjglaj3s_lod3_Var1.uasset",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Hall.umap",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Blueprints/Enemy/Ch30_Body.uasset",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Blueprints/Enemy/Ch30_Body1.uasset",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Blueprints/Enemy/Animations/Running_Crawl.uasset",
