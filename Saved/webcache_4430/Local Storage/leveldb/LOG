@@ -1,0 +1,16 @@
+<<<<<<< Updated upstream
+=======
+2023/10/14-01:10:33.819 4714 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/14-01:10:33.834 4714 Recovering log #3
+2023/10/14-01:10:33.835 4714 Level-0 table #3: started
+2023/10/14-01:10:33.861 4714 Level-0 table #3: 2613 bytes OK
+2023/10/14-01:10:33.872 4714 Recovering log #8
+2023/10/14-01:10:33.874 4714 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2023/10/14-01:10:33.875 4714 Delete type=0 #3
+2023/10/14-01:10:33.875 4714 Delete type=2 #5
+2023/10/14-01:10:33.875 4714 Delete type=2 #7
+2023/10/14-01:10:33.875 4714 Delete type=2 #9
+2023/10/14-01:45:34.271 9dcc Level-0 table #10: started
+2023/10/14-01:45:34.275 9dcc Level-0 table #10: 16624 bytes OK
+2023/10/14-01:45:34.277 9dcc Delete type=0 #8
+>>>>>>> Stashed changes

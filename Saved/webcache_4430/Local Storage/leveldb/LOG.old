@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 2023/09/27-17:53:00.159 3e34 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 2023/09/27-17:53:00.162 3e34 Recovering log #3
 2023/09/27-17:53:00.164 3e34 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+=======
+2023/10/06-12:44:37.874 68a0 Creating DB C:/Users/raesh/OneDrive/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/10/06-12:44:37.879 68a0 Reusing MANIFEST C:/Users/raesh/OneDrive/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> Stashed changes
