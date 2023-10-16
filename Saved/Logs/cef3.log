@@ -1,19 +1,1 @@
-<<<<<<< Updated upstream
-[0927/182142.429:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0927/182145.590:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0927/182145.591:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Cache to C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\old_Cache_000
-[0927/182145.591:ERROR:disk_cache.cc(184)] Unable to create cache
-[0927/182152.660:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0927/182337.036:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0927/182340.826:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-=======
-[1014/011033.313:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[1014/011034.255:ERROR:backend_impl.cc(2045)] Corrupt Index file
-[1014/011037.439:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1014/011233.944:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1014/011239.598:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1014/011239.603:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1014/011240.517:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1014/011240.558:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1014/011242.604:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 487
->>>>>>> Stashed changes
+[1016/000019.357:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
