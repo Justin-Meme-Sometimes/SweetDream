@@ -1,2 +1,10 @@
-2023/10/06-12:44:37.874 68a0 Creating DB C:/Users/raesh/OneDrive/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/10/06-12:44:37.879 68a0 Reusing MANIFEST C:/Users/raesh/OneDrive/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/15-23:00:22.633 7890 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/15-23:00:22.636 7890 Recovering log #3
+2023/10/15-23:00:22.637 7890 Level-0 table #3: started
+2023/10/15-23:00:22.730 7890 Level-0 table #3: 2613 bytes OK
+2023/10/15-23:00:22.731 7890 Recovering log #8
+2023/10/15-23:00:22.733 7890 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2023/10/15-23:00:22.735 7890 Delete type=0 #3
+2023/10/15-23:00:22.735 7890 Delete type=2 #5
+2023/10/15-23:00:22.735 7890 Delete type=2 #7
+2023/10/15-23:00:22.735 7890 Delete type=2 #9
