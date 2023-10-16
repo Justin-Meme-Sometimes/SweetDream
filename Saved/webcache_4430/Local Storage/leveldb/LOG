@@ -1,4 +1,6 @@
-2023/10/15-23:58:18.980 d70 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/15-23:58:18.982 d70 Recovering log #9
-2023/10/15-23:58:18.984 d70 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000009.log 
-2023/10/15-23:58:18.985 d70 Delete type=0 #3
+2023/10/16-01:33:11.610 2948 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/16-01:33:11.612 2948 Recovering log #9
+2023/10/16-01:33:11.613 2948 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000009.log 
+2023/10/16-02:17:05.392 a824 Level-0 table #13: started
+2023/10/16-02:17:05.396 a824 Level-0 table #13: 12503 bytes OK
+2023/10/16-02:17:05.398 a824 Delete type=0 #9
