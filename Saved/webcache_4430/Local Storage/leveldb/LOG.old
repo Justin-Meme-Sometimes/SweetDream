@@ -1,6 +1,11 @@
-2023/10/16-01:33:11.610 2948 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/16-01:33:11.612 2948 Recovering log #9
-2023/10/16-01:33:11.613 2948 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000009.log 
-2023/10/16-02:17:05.392 a824 Level-0 table #13: started
-2023/10/16-02:17:05.396 a824 Level-0 table #13: 12503 bytes OK
-2023/10/16-02:17:05.398 a824 Delete type=0 #9
+2023/09/29-23:50:03.862 4d5c Creating DB C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/09/29-23:50:03.901 4d5c Reusing MANIFEST C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/09/30-11:31:44.707 ccc8 Level-0 table #5: started
+2023/09/30-11:31:44.712 ccc8 Level-0 table #5: 18642 bytes OK
+2023/09/30-11:31:44.714 ccc8 Delete type=0 #3
+2023/10/01-00:39:30.609 c368 Level-0 table #7: started
+2023/10/01-00:39:30.613 c368 Level-0 table #7: 18264 bytes OK
+2023/10/01-00:39:30.615 c368 Delete type=0 #4
+2023/10/01-11:53:43.103 9688 Level-0 table #9: started
+2023/10/01-11:53:43.114 9688 Level-0 table #9: 17457 bytes OK
+2023/10/01-11:53:43.119 9688 Delete type=0 #6
