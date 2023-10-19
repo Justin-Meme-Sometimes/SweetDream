@@ -1,4 +1,14 @@
-2023/10/17-16:11:24.277 3318 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/17-16:11:24.285 3318 Recovering log #12
-2023/10/17-16:11:24.286 3318 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000012.log 
-2023/10/17-16:11:24.287 3318 Delete type=0 #8
+2023/10/19-01:33:59.844 9f78 Reusing MANIFEST C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/19-01:33:59.845 9f78 Recovering log #12
+2023/10/19-01:33:59.846 9f78 Reusing old log C:/Users/gucha/Documents/GitHub/SweetDream/Saved/webcache_4430\Local Storage\leveldb/000012.log 
+2023/10/19-01:56:19.761 4684 Level-0 table #16: started
+2023/10/19-01:56:19.764 4684 Level-0 table #16: 12287 bytes OK
+2023/10/19-01:56:19.766 4684 Delete type=0 #12
+2023/10/19-01:56:19.767 4684 Compacting 4@0 + 0@1 files
+2023/10/19-01:56:19.771 4684 Generated table #17@0: 20 keys, 5172 bytes
+2023/10/19-01:56:19.771 4684 Compacted 4@0 + 0@1 files => 5172 bytes
+2023/10/19-01:56:19.771 4684 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/19-01:56:19.772 4684 Delete type=2 #3
+2023/10/19-01:56:19.772 4684 Delete type=2 #10
+2023/10/19-01:56:19.772 4684 Delete type=2 #13
+2023/10/19-01:56:19.773 4684 Delete type=2 #16
