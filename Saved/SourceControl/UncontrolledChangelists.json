@@ -5,6 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Blueprints/UI/MainInterface.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Blueprints/UI/BP_MainHUD.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Blueprints/UI/BP_SweatDreamHUD.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Blueprints/UI/BP_MainHUDWidget.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Maps/AndyDev.umap",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Blueprints/Framework/BP_SweetDreamGameModeBase.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Assets/UI/MainHUD/skull_outside.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Assets/UI/MainHUD/skull_inside.uasset",
+				"C:/Users/andyj/OneDrive/Desktop-AJslaptop/Github/SweetDream/Content/Assets/UI/MainHUD/skull_filled.uasset",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Hall.umap",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material.uasset",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/JustinDev.umap",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/AndrewDev1.umap",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Blueprints/Interactables/BP_Cabinet.uasset",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/_GENERATED/justi/Cabinet_Door.uasset",
+				"C:/Users/justi/OneDrive/Documents/GitHub/SweetDream/Content/Maps/_GENERATED/justi/Box_D6344DB0.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Main.umap",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Courtyard.umap",
 				"C:/Users/gucha/Documents/GitHub/SweetDream/Content/Maps/Playable_Map/Rooms/Church.umap",
