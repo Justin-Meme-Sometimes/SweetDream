@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{db4dcf4d-a44a-4f38-b06d-302ce48f5131}">
+		<property name="assetPath">
+			<value>chase_base_tuned.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>46.75888888888889</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{46392909-bb01-4020-8f08-468d758f79ed}</destination>
+		</relationship>
+	</object>
+</objects>
