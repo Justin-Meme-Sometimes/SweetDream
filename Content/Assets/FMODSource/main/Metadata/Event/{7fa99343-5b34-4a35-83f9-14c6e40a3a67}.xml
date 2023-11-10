@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{7fa99343-5b34-4a35-83f9-14c6e40a3a67}">
 		<property name="name">
-			<value>minion_wandering_walking</value>
+			<value>minion_breathing_fast</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -30,9 +30,6 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{6f3fe823-f7b4-4b4e-b0c0-1569a4f2d9b3}</destination>
-		</relationship>
-		<relationship name="banks">
-			<destination>{e8e1d393-b3fc-4584-ae03-9c2e6020460c}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{666af266-27e2-4dc3-b3f7-e2874e889fa1}">
@@ -75,9 +72,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{4b54e0dc-5315-4320-8228-e316dff26dd1}">
-		<property name="volume">
-			<value>-6</value>
-		</property>
 		<relationship name="effectChain">
 			<destination>{534feed1-2f07-4afe-996c-c596c68cf5a3}</destination>
 		</relationship>
@@ -103,6 +97,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{5521e4c9-16ac-4781-b424-a1dc6c8cc59b}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -146,7 +143,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{71bd0566-9dd2-4306-9e5a-839beb32de64}" />
 	<object class="MixerBusFader" id="{05c5b517-5566-487b-a9b9-93a6506371c8}" />
-	<object class="SpatialiserEffect" id="{9c9919c7-3149-485b-ab62-ebde02a8024a}" />
+	<object class="SpatialiserEffect" id="{9c9919c7-3149-485b-ab62-ebde02a8024a}">
+		<property name="maximumDistance">
+			<value>35</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="SFXReverbEffect" id="{69cc3ede-761e-48ac-84f0-24c3330470c8}">
 		<property name="wetLevel">
 			<value>-13.5</value>
