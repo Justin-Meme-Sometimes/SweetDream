@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{bb82e3fb-5dde-47b8-8683-e36c50e066ec}">
 		<property name="name">
-			<value>minion_walking</value>
+			<value>minion_crawl</value>
 		</property>
 		<property name="outputFormat">
 			<value>5</value>
