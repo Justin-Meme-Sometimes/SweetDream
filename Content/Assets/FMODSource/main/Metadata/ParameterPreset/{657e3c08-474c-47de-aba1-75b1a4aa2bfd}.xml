@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{657e3c08-474c-47de-aba1-75b1a4aa2bfd}">
+		<property name="name">
+			<value>chase_monster_volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{86fef870-110f-42a7-8ea4-ac830ae7f45c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{35b33060-149d-4973-880d-f2b3b47f8b20}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{35b33060-149d-4973-880d-f2b3b47f8b20}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.19999998807907104</value>
+		</property>
+	</object>
+</objects>
