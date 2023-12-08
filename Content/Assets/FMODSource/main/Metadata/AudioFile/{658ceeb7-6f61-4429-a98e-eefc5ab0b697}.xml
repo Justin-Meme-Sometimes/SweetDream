@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{658ceeb7-6f61-4429-a98e-eefc5ab0b697}">
+		<property name="assetPath">
+			<value>minion_hiss.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{46392909-bb01-4020-8f08-468d758f79ed}</destination>
+		</relationship>
+	</object>
+</objects>
