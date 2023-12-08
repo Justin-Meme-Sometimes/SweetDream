@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6b12f986-9d52-4476-aa46-9f362e2f1a9b}">
+		<property name="assetPath">
+			<value>warden_sounds.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>81.214693877551014</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{46392909-bb01-4020-8f08-468d758f79ed}</destination>
+		</relationship>
+	</object>
+</objects>
